@@ -6,3 +6,4 @@ Training to create frontend projects with vanilla js.
 - imc
 - dino
 - drumkit
+- lampada
