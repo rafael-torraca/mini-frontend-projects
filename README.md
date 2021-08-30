@@ -7,3 +7,5 @@ Training to create frontend projects with vanilla js.
 - dino
 - drumkit
 - lampada
+- slideshowjs
+- space
